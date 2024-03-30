@@ -1,9 +1,9 @@
 basically a quick agricraft 1.12.2 farm for project ozone. its ugly but it works.
 settings are for a setup that looks like this, looking from the top-down
 
-0 \ x x x A 0
-i R 0 0 0 0 s
-0 u 0 0 D D 0
+0 \ x x x A 0\n
+i R 0 0 0 0 s\n
+0 u 0 0 D D 0\n
 
 legend
 0 - air
