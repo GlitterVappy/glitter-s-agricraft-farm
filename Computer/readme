@@ -1,0 +1,5 @@
+put in shrc IN ORDER
+
+/dir/runBoot.lua
+/dir/wakeRobot.lua
+/dir/plantchecker.lua
